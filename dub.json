@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"Colin Kiama"
+	],
+	"copyright": "Copyright © 2023, Colin Kiama",
+	"dependencies": {
+		"raylib-d": "~>4.2.4"
+	},
+	"libs": ["raylib"],
+	"lflags-posix": ["-L."],
+	"lflags-osx": ["-rpath", "@executable_path/"],
+	"lflags-linux": ["-rpath=$$ORIGIN"],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "raylib-demo"
+}
