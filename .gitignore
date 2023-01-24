@@ -14,5 +14,5 @@ raylib-demo-test-*
 *.o
 *.obj
 *.lst
-*.so*
-*.so.*
+libraylib.so*
+
