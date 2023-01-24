@@ -1,4 +1,4 @@
-# Raylib-d Demo
+# raylib-d Demo
 
 It's just me trying out the raylib-d bindings
 
@@ -16,6 +16,7 @@ You'll need a copy of raylib to link the program with. Either  run the following
 dub upgrade
 dub run raylib-d:install
 ```
+
 or follow these instructions: https://github.com/schveiguy/raylib-d#get-a-copy-of-raylib
 
 **Step 3:**
